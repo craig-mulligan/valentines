@@ -1,10 +1,6 @@
 {
-  "name": "resin-text2speech",
-  "description": "Simple resin app that uses Google's TTS endpoint",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/resin-io/text2speech.git"
-  },
+  "name": "valentines",
+  "description": "Simple rpi app to transform a room into a sexcave",
   "scripts": {
     "preinstall": "bash deps.sh"
   },
