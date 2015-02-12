@@ -1,6 +1,10 @@
 {
   "name": "valentines",
   "description": "Simple rpi app to transform a room into a sexcave",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craig-mulligan/valentines.git"
+  },
   "scripts": {
     "preinstall": "bash deps.sh"
   },
