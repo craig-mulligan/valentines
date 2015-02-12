@@ -12,7 +12,8 @@
   "dependencies": {
     "speaker": "~0.0.10",
     "request": "~2.22.0",
-    "lame": "~1.0.2"
+    "lame": "~1.0.2",
+    "firebase": "~2.1.2"
   },
   "engines": {
       "node": "0.10.22"
